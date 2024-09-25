@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir : docs  
+website:
+  title: "sql"
+  page-navigation: true
+  navbar:
+    right:
+      - icon : github
+        href : https://github.com/gangcheol/
+  sidebar:
+    style: "docked"
+    search: True
+    contents: auto
+    
+format:
+  html:
+    css: styles.css
+    toc: true
+    code-fold : False
+    code-line-numbers : True
+    code-copy : True
+
+theme :
+  light : flatly
+  
+editor : visual
