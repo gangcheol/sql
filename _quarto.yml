@@ -15,5 +15,5 @@ website:
     
 format:
   html:
-    theme : quartz
+    theme : Materia
     css : styles.css
