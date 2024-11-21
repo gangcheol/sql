@@ -24,4 +24,3 @@ format:
     code-fold: false
     code-line-numbers: false
     code-copy: true
-  ipynb: default
