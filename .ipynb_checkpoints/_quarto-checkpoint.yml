@@ -15,5 +15,5 @@ website:
     
 format:
   html:
-    theme : Materia
+    theme : materia
     css : styles.css
