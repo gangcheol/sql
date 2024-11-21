@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "posts/00. 데이터베이스 기본 개념.html",
-    "href": "posts/00. 데이터베이스 기본 개념.html",
-    "title": "00. 데이터베이스 기본 개념",
+    "objectID": "posts/01. 지표 이해하기.html",
+    "href": "posts/01. 지표 이해하기.html",
+    "title": "01. 지표 이해하기",
     "section": "",
-    "text": "1. 기본 용어\n1 데이터베이스 : 일정한 체계 속에 저장된 데이터의 집합\n\n데이터는 보통 Table(표)단위로 저장된다.\n하나의 데이터베이스 안에는 여러 테이블이 저장되어있다.\n또한, 데이터베이스를 여러 개를 만든다면, 대용량 데이터를 체계적으로 관리할 수 있다.\n\n2 DBMS : 데이터베이스 관리 시스템\n\nDB를 관리하기 위해 사용하는 프로그램\noracle, mysql등 다양한 DBMS가 존재함.\n\n3 SQL : DBMS에 명령을 내리기 위해 사용하는 언어\n\n\n2. MySQL 설치(Windows)\n1 설치사이트에서 최신 버전 다운 가능\n2 그러나 본 강의에서는 8.0.37을 사용\\(\\to\\) 강의 때 쓸 버전\n3 Custom 을 선택하고, Next 버튼 클릭\n\n\n\n4 MySQL Server, MySQL Workbench, MySQL Shell을 하나씩 클릭하면서 오른쪽 화살표 버튼을 클릭하여 다음과 같이 설치할 Product로 이동\n\n\n\n5 Execute 버튼 클릭\n6 그 후 부터는 그냥 쭉쭉 하면됨. 그러다 마지막에 체크 저렇게 한 개만 하기\n\n\n\n\n\n\n3. MySQL 서버 접속(windows)\n1 + 버튼 클릭\n\n\n\n2 접속이름 설정\n\nroot 사용자로 접속\nMySQL 서버가 있는 위치는 127.0.0.1(내 컴퓨터를 의미), MySQL 서버는 내 컴퓨터의 3306번 포트를 사용한다는 뜻\n\n\n\n\n3 접속 후 Server Status 클릭\n\n아래와 같은 오류가 발생할 경우 다음과 같이 해결\n\n\n\n\n\nWin + R을 눌러 services.msc 입력\n그후, MySQL 80을 찾아 우클릭 후 시작 \\(\\to\\) 그래도 오류가 발생..\nWin + R을 눌러 control intl.cpl,,3 입력\n관리자 옵션 탭에서 시스템 로캘 변경 클릭\nBeta: 세계 언어 지원을 위해 Unicode UTF-8 사용 항목을 체크 후 ‘확인’ 버튼을 클릭\n\n4 재부팅 후…. 오 이제 잘 된다…\n\n\n\n4. DB 생성\n1 query 창에 다음과 같이 입력\ncreate database copang_main # 1. DB 생성\n2 그후 스키마 새로 고침\n\n3 오 잘 반영 되었음",
-    "crumbs": [
-      "Posts",
-      "00. 데이터베이스 기본 개념"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
-    ]
+    "text": "Intro\n1 지표 : 데이터를 측정하고 평가하기 위한 정량적인 측정 항목\n\n비즈니스와 프로덕트의 현재 상태를 알려줄 수 있는 항목\n데이터를 쉽고 명확하게 요약하여 전달할 수 있게 함\n구글이나 네이버에서도 다양한 직무에서 의사결정을 내리기 위해 지표를 사용함\n\n\nex\n1 사용자는 늘었지만 강의 탐색 화면으로 유입되는 비율은 줄었네? - 강의 탐색 버튼 디자인을 눈에 잘 띄게 수정해 봐야겠다는 인사이트를 내릴 수 있음\n\n\n이번 강의에서는 보편적인 지표를 다룸 \\(\\to\\) 비즈니스와 프로덕트에 맞는 지표를 설정하는 법을 배운다."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "sql",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 22, 2024\n\n\n00. 데이터베이스 기본 개념\n\n\nGC \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nAug 22, 2024\n\n\n00. 데이터베이스 기본 개념\n\n\nGC \n\n\n\n\nAug 22, 2024\n\n\n01. 지표 이해하기\n\n\nGC \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/00. 데이터베이스 기본 개념.html",
+    "href": "posts/00. 데이터베이스 기본 개념.html",
+    "title": "00. 데이터베이스 기본 개념",
+    "section": "",
+    "text": "1. 기본 용어\n1 데이터베이스 : 일정한 체계 속에 저장된 데이터의 집합\n\n데이터는 보통 Table(표)단위로 저장된다.\n하나의 데이터베이스 안에는 여러 테이블이 저장되어있다.\n또한, 데이터베이스를 여러 개를 만든다면, 대용량 데이터를 체계적으로 관리할 수 있다.\n\n2 DBMS : 데이터베이스 관리 시스템\n\nDB를 관리하기 위해 사용하는 프로그램\noracle, mysql등 다양한 DBMS가 존재함.\n\n3 SQL : DBMS에 명령을 내리기 위해 사용하는 언어\n\n\n2. MySQL 설치(Windows)\n1 설치사이트에서 최신 버전 다운 가능\n2 그러나 본 강의에서는 8.0.37을 사용\\(\\to\\) 강의 때 쓸 버전\n3 Custom 을 선택하고, Next 버튼 클릭\n\n\n\n4 MySQL Server, MySQL Workbench, MySQL Shell을 하나씩 클릭하면서 오른쪽 화살표 버튼을 클릭하여 다음과 같이 설치할 Product로 이동\n\n\n\n5 Execute 버튼 클릭\n6 그 후 부터는 그냥 쭉쭉 하면됨. 그러다 마지막에 체크 저렇게 한 개만 하기\n\n\n\n\n\n\n3. MySQL 서버 접속(windows)\n1 + 버튼 클릭\n\n\n\n2 접속이름 설정\n\nroot 사용자로 접속\nMySQL 서버가 있는 위치는 127.0.0.1(내 컴퓨터를 의미), MySQL 서버는 내 컴퓨터의 3306번 포트를 사용한다는 뜻\n\n\n\n\n3 접속 후 Server Status 클릭\n\n아래와 같은 오류가 발생할 경우 다음과 같이 해결\n\n\n\n\n\nWin + R을 눌러 services.msc 입력\n그후, MySQL 80을 찾아 우클릭 후 시작 \\(\\to\\) 그래도 오류가 발생..\nWin + R을 눌러 control intl.cpl,,3 입력\n관리자 옵션 탭에서 시스템 로캘 변경 클릭\nBeta: 세계 언어 지원을 위해 Unicode UTF-8 사용 항목을 체크 후 ‘확인’ 버튼을 클릭\n\n4 재부팅 후…. 오 이제 잘 된다…\n\n\n\n4. DB 생성\n1 query 창에 다음과 같이 입력\ncreate database copang_main # 1. DB 생성\n2 그후 스키마 새로 고침\n\n3 오 잘 반영 되었음"
   }
 ]

@@ -2,7 +2,7 @@ project:
   type: website
   output-dir : docs  
 website:
-  title: "sql"
+  title: "BA"
   page-navigation: true
   navbar:
     right:
@@ -11,7 +11,7 @@ website:
   sidebar:
     style: "docked"
     search: True
-    contents: auto
+    contents: autoe
     
 format:
   html:
@@ -20,7 +20,6 @@ format:
     code-fold : False
     code-line-numbers : True
     code-copy : True
-
 theme :
   light : flatly
   
