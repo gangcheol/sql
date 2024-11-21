@@ -15,12 +15,5 @@ website:
     
 format:
   html:
-    css: styles.css
-    toc: true
-    code-fold : False
-    code-line-numbers : True
-    code-copy : True
-theme :
-  light : flatly
-  
-editor : visual
+    theme : cerulean
+    css : styles.css

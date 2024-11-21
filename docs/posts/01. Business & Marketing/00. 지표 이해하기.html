@@ -32,7 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../posts/01. Business &amp; Marketing/Extra 01. 지표 Cheat Sheet.html" rel="next">
 <link href="../../posts/00. SQL/00. 데이터베이스 기본 개념.html" rel="prev">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -204,12 +203,6 @@ window.Quarto = {
  <span class="menu-text">00. 지표 이해하기</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../posts/01. Business &amp; Marketing/Extra 01. 지표 Cheat Sheet.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Extra 01. 지표 Cheat Sheet</span></a>
-  </div>
-</li>
       </ul>
   </li>
       </ul>
@@ -228,9 +221,19 @@ window.Quarto = {
   <li><a href="#지표-관리를-위한-aarrr프레임워크" id="toc-지표-관리를-위한-aarrr프레임워크" class="nav-link" data-scroll-target="#지표-관리를-위한-aarrr프레임워크">01. 지표 관리를 위한 AARRR프레임워크</a>
   <ul class="collapse">
   <li><a href="#aarrrr-프레임워크" id="toc-aarrrr-프레임워크" class="nav-link" data-scroll-target="#aarrrr-프레임워크">AARRRR 프레임워크</a></li>
+  <li><a href="#extra1.-주의" id="toc-extra1.-주의" class="nav-link" data-scroll-target="#extra1.-주의">Extra1. 주의!</a>
+  <ul class="collapse">
+  <li><a href="#ex1.-프로덕트-a" id="toc-ex1.-프로덕트-a" class="nav-link" data-scroll-target="#ex1.-프로덕트-a">ex1. 프로덕트 A</a></li>
+  <li><a href="#summary1" id="toc-summary1" class="nav-link" data-scroll-target="#summary1">Summary1</a></li>
+  </ul></li>
+  <li><a href="#acquisition-획득-지표" id="toc-acquisition-획득-지표" class="nav-link" data-scroll-target="#acquisition-획득-지표">01. Acquisition : 획득 지표</a>
+  <ul class="collapse">
+  <li><a href="#지표-1.-획득의-규모" id="toc-지표-1.-획득의-규모" class="nav-link" data-scroll-target="#지표-1.-획득의-규모">지표 1. 획득의 규모</a></li>
+  <li><a href="#지표-2.-획득의-효율cac" id="toc-지표-2.-획득의-효율cac" class="nav-link" data-scroll-target="#지표-2.-획득의-효율cac">지표 2. 획득의 효율(CAC)</a></li>
+  </ul></li>
   </ul></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="00. 지표 이해하기.out.ipynb" download="00. 지표 이해하기.out.ipynb"><i class="bi bi-journal-code"></i>Jupyter</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -381,8 +384,150 @@ window.Quarto = {
 </div>
 </div>
 </div>
+<hr>
+</section>
+<section id="extra1.-주의" class="level2">
+<h2 class="anchored" data-anchor-id="extra1.-주의">Extra1. 주의!</h2>
+<p><code>1</code> 동일한 지표라도 필요에 따라 계산식을 얼마든지 수정할 수 있다.</p>
+<p><code>2</code> 전환율(Conversion Rate)이 가장 대표적인 주의할 지표</p>
+<ul>
+<li>일반적으로 알려진 정의</li>
+</ul>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{전환이 발생한 수}}{\text{전체 수}}\times 100\]</span></p>
+<ul>
+<li><p>근데 이것만으로는 지표의 측정값을 구하기가 애매함</p></li>
+<li><p>전환율을 구성하는 요소들에 대한 구체적인 정의가 필요</p></li>
+<li><p>즉, 사용자의 어떤 행위를 전환으로 볼지 정의해야함</p></li>
+</ul>
+<section id="ex1.-프로덕트-a" class="level3">
+<h3 class="anchored" data-anchor-id="ex1.-프로덕트-a">ex1. 프로덕트 A</h3>
+<ul>
+<li>프로덕트 A : 결제를 완료했을 때 전환이 발생했다고 정의</li>
+</ul>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{결제 완료가 발생한 수}}{\text{전체 수}}\times 100\]</span></p>
+<p><code>-</code> 전체 수에 대한 정의도 가지 각색이다.</p>
+<ol type="1">
+<li>전체 방문 사용자 수 기준</li>
+</ol>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{결제 완료가 발생한 수}}{\text{사이트에 방문한 전체 사용자 수}}\times 100\]</span></p>
+<ol start="2" type="1">
+<li>전체 페이지 조회 수 기준</li>
+</ol>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{결제 완료가 발생한 수}}{\text{전체 페이지 조회 수}}\times 100\]</span></p>
+<p><code>-</code> 또한, 측정 기간에 따라서도 달라진다.</p>
+<ol type="1">
+<li>이번달 기준</li>
+</ol>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{이번달 결제 완료가 발생한 수}}{\text{이번달에 방문한 전체 사용자 수}}\times 100\]</span></p>
+<ol start="2" type="1">
+<li>1분기 기준</li>
+</ol>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{1분기에 결제 완료가 발생한 수}}{\text{1분기에 전체 페이지 조회 수}}\times 100\]</span></p>
+<p><code>-</code> Extra</p>
+<ul>
+<li>프로덕트 B : 장바구니에 상품을 담았을 때 전환이 발생했다고 정의</li>
+</ul>
+<p><span class="math display">\[\text{Conversion Rate} = \frac{\text{장바구니 담기가 발생한 수}}{\text{전체 수}}\times 100\]</span></p>
+<ul>
+<li>프로덕트 C : 온라인 폼을 제출했을 때 전환이 발생했다고 정의 <span class="math display">\[\text{Conversion Rate} = \frac{\text{온라인 폼 제출이 발생한 수}}{\text{전체 수}}\times 100\]</span></li>
+</ul>
+</section>
+<section id="summary1" class="level3">
+<h3 class="anchored" data-anchor-id="summary1">Summary1</h3>
+<p><code>1</code> 이처럼 전환율이라는 하나의 지표에 대해서도 세부적인 요소들을 어떻게 정의하느냐에 따라 서로 다른 지표값이 산출된다.</p>
+<p><code>2</code> 또한, 이로부터 인사이트가 달라짐</p>
+<p><code>3</code> 비즈니스 목적에 맞게 측정하고 싶은 것이 무엇인지 정하고, 지표를 구성하는 세부적인 요소들을 구체적으로 정의하는 것이 중요</p>
+<p><code>4</code> <span style="color : Blue"><strong>즉, 지표의 계산식은 고정된 게 아니라 유연하게 변동될 수 있음을 기억하자(<span class="math inline">\(\star\star\star\)</span>)</strong></span></p>
+<hr>
+</section>
+</section>
+<section id="acquisition-획득-지표" class="level2">
+<h2 class="anchored" data-anchor-id="acquisition-획득-지표">01. Acquisition : 획득 지표</h2>
+<p><code>1</code> 잠재 고객이 프로덕트의 신규 사용자로 유입되는 <code>획득</code>단계</p>
+<ul>
+<li>많이 효율적으로 획득하는 게 중요</li>
+</ul>
+<section id="지표-1.-획득의-규모" class="level3">
+<h3 class="anchored" data-anchor-id="지표-1.-획득의-규모">지표 1. 획득의 규모</h3>
+<p><code>1</code> 신규 사용자 수(New User)</p>
+<p><code>2</code> 회원 가입 수(Sign Up)</p>
+<p><code>3</code> 앱 다운로드 수(App Installs)</p>
+<blockquote class="blockquote">
+<p>ex1. 세일즈를 통해 수익을 창출하는 회사 - 고객 정보를 얻어야 세일즈를 시작할 수 있음 - 이런 회사는 잠재 고객들을 리드(Lead)라고 부름 - 이런 리드의 수가 많을 수록 고객 확보 가능성이 높아지기 때문에 <code>리드 수</code>역시 지표로 사용됨</p>
+</blockquote>
+</section>
+<section id="지표-2.-획득의-효율cac" class="level3">
+<h3 class="anchored" data-anchor-id="지표-2.-획득의-효율cac">지표 2. 획득의 효율(CAC)</h3>
+<p><code>1</code> 고객획득비용(CAC) : Customer Acquisition Cost</p>
+<ul>
+<li>신규 고객 1명을 유치하기 위해 필요한 비용</li>
+</ul>
+<p><span class="math display">\[\text{CAC}=\frac{\text{고객 획득을 위해 투입한 금액}}{\text{획득한 고객 수}}\]</span></p>
+<ul>
+<li>주의 : CAC는 프로덕트로 유입된 모든 사용자가 아니다.
+<ul>
+<li>각각의 프로덕트가 미리 정해둔 기준을 충족한 사용자인 고객을 획득하는 데 들어간 비용을 의미한다.</li>
+<li>따라서 계산하기 앞서 우리 프로덕트에서 <code>고객의 기준</code>이 무엇인지 정해야한다.</li>
+</ul></li>
+</ul>
+<section id="ex1.-쇼핑-서비스의-경우" class="level4">
+<h4 class="anchored" data-anchor-id="ex1.-쇼핑-서비스의-경우">ex1. 쇼핑 서비스의 경우</h4>
+<table class="table">
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: center;">회원 가입을 완료한 사용자</th>
+<th style="text-align: center;">2개 이상의 상품을 장바구니에 담은 사용자</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>투입한 금액</td>
+<td style="text-align: center;">5,000만원</td>
+<td style="text-align: center;">5,000만원</td>
+</tr>
+<tr class="even">
+<td>획득한 고객 수</td>
+<td style="text-align: center;">1,000명</td>
+<td style="text-align: center;">500명</td>
+</tr>
+<tr class="odd">
+<td>CAC</td>
+<td style="text-align: center;">5만원</td>
+<td style="text-align: center;">10만원</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="ex2.-블랜디드-cac" class="level4">
+<h4 class="anchored" data-anchor-id="ex2.-블랜디드-cac">ex2. 블랜디드 CAC</h4>
+<p><span class="math display">\[\text{블랜디드 CAC}=\frac{\text{고객 획득을 위해 투입한 금액}}{\text{획득한 고객 수}}\]</span></p>
+<ul>
+<li>유료 광고 비용, 영업 비용, 서비스 사용 비용 등을 포함</li>
+</ul>
+</section>
+<section id="ex3.-매체별-cac" class="level4">
+<h4 class="anchored" data-anchor-id="ex3.-매체별-cac">ex3. 매체별 CAC</h4>
+<p><span class="math display">\[\text{매채별 CAC}=\frac{\text{특정 광고 매체에서 고객 획득을 위해 투입한 금액}}{\text{획득한 고객 수}}\]</span></p>
+<p><code>1</code> 실무에서는 매체별 CAC를 보는 경우가 많음</p>
+<p><code>2</code> 낮은 투자 비용으로 많은 고객을 확보하는 것이 중요하기 때문</p>
+<p><code>3</code> 또한, 더 많은 인사이트를 얻기 위해 다음과 같이 데이터를 쪼개보기도 함</p>
+<ul>
+<li>매체별 CAC</li>
+<li>광고별 CAC</li>
+<li>날짜별 CAC</li>
+<li>고객 유형별 CAC 등등….</li>
+</ul>
+<p><code>4</code> 오해… CAC가 저렴할수록 광고 성과가 좋다…?? (x)</p>
+<ul>
+<li><p>오히려 저품질의 고객이 유입될 수 있음</p></li>
+<li><p>때로는 중간 정도의 CAC로 고품질의 고객을 얻는 것이 장기적으로 보았을 때 장기적으로 유리할 수 있음</p></li>
+<li><p><span style="color : Blue"> <strong>따라서, 상품과 비즈니스의 전체적인 상황을 잘 살펴서 적절한 CAC를 얻기위해 노력해야한다.(<span class="math inline">\(\star\star\star\)</span>)</strong></span></p></li>
+</ul>
 
 
+</section>
+</section>
 </section>
 </section>
 
@@ -796,6 +941,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://utteranc.es/client.js" repo="gangcheol/sql" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
+</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="../../posts/00. SQL/00. 데이터베이스 기본 개념.html" class="pagination-link" aria-label="00. 데이터베이스 기본 개념">
@@ -803,9 +950,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../posts/01. Business &amp; Marketing/Extra 01. 지표 Cheat Sheet.html" class="pagination-link" aria-label="Extra 01. 지표 Cheat Sheet">
-        <span class="nav-page-text">Extra 01. 지표 Cheat Sheet</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
