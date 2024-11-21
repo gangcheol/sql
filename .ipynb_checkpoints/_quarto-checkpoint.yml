@@ -11,7 +11,7 @@ website:
   sidebar:
     style: "docked"
     search: True
-    contents: autoe
+    contents: auto
     
 format:
   html:
