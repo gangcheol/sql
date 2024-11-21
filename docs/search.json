@@ -36,6 +36,23 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BA",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
     "objectID": "posts/01. Business & Marketing/00. 지표 이해하기.html",
     "href": "posts/01. Business & Marketing/00. 지표 이해하기.html",
     "title": "00. 지표 이해하기",
@@ -105,59 +122,6 @@
       "Posts",
       "01. Business & Marketing",
       "00. 지표 이해하기"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BA",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Extra 01. book review/01. Growth Hacking.html",
-    "href": "posts/Extra 01. book review/01. Growth Hacking.html",
-    "title": "01. Growth Hacking",
-    "section": "",
-    "text": "1 저자 : 라이언 홀리데이",
-    "crumbs": [
-      "Posts",
-      "Extra 01. book review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. book review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "href": "posts/Extra 01. book review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "title": "01. Growth Hacking",
-    "section": "(a) 그로스 해커 정의",
-    "text": "(a) 그로스 해커 정의\n\n마케터와 코더가 결합된 형태로, “우리 제품의 고객을 어떻게 확보할 수 있는가”라는 전통적인 질문에 대해 A/B Test, 이메일 도달률, 오픈 그래프 등을 사용해서 답을 제시하는 사람이다.\n그로스 해킹은 ’마케팅’을 무의미하거나 아니면 최소 우수 사례를 완전히 다시 쓰는 셈이다.\n그로스 해커는 마케팅을 마케터가 해야 하는 일이 아니고 제품 자체에 구축되어야 하는 것으로 본다.\n모든 그로스 해커의 궁극적인 목표는 자동으로 수백만의 사람들에게 전파하며, 스스로 영구히 지속되는 마케팅 기계를 만드는 것이다.(아론 긴)\n인터넷과 SNS도구들을 활용하여 반복적으로 추적하고, 검증하는 과정을 통해 기존의 마케팅 틀에서 벗어나는 것\n\n영화산업과 같이 유명인사를 초대하는 등 많은 비용들을 초래하는 방식을 뜻함\n\n데이터 과학자로서 디자이너나 마케터를 만나고 여기서 얻은 정보들을 처리하여 다르게 활용한다(\\(\\star\\star\\star\\))\n\n그래서 기존의 마케팅이 브랜드 기반이었다면, 그로스 해킹은 데이터에 기반한 지표와 ROI(Return of investment)기반으로 돌아가는 것임\n그로스 해킹은 도구라기보다는 사고 방식임\n\n나의 정의1 : 반복적으로 추적하고 검증하는 과정에서 발생되는 데이터를 통해 비즈니스 의사결정을 내리는 것",
-    "crumbs": [
-      "Posts",
-      "Extra 01. book review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. book review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "href": "posts/Extra 01. book review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "title": "01. Growth Hacking",
-    "section": "(b) 그로스 해킹 사례 1. 핫메일",
-    "text": "(b) 그로스 해킹 사례 1. 핫메일\n1 유명한 벤처 투자가인 팀 드레이퍼는 다음과 같은 방식을 제안함\n\n이용자들의 모든 이메일 화면 맨 밑에 메시지리를 넣어 이용자들이 새로운 이용자를 끌어들이게 하였음.\n이 방식은 창의적이라기 보단, 많은 사람들이 원하고 필요로 했던 놀라운 제품을 소개하는 것이었기 때문에 성공할 수 있었음\n실제로 핫메일은 30개월만의 30만 달러 투자만으로, 4억 달러짜리 브랜드를 형성함.\n구글도 현재 시장 1위인 지메일 출시 당시, 근본적으로 같은 원리의 그로스 해킹 전략을 사용함",
-    "crumbs": [
-      "Posts",
-      "Extra 01. book review",
-      "01. Growth Hacking"
     ]
   }
 ]
