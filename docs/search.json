@@ -1,67 +1,14 @@
 [
   {
-    "objectID": "posts/Extra 02. Change Up/00. change up review (11-12).html",
-    "href": "posts/Extra 02. Change Up/00. change up review (11-12).html",
-    "title": "00. change up review (11-12)",
+    "objectID": "posts/Extra 01. review/02. 왜 일하는가.html",
+    "href": "posts/Extra 01. review/02. 왜 일하는가.html",
+    "title": "02. 왜 일하는가",
     "section": "",
-    "text": "Review\n1 일단 체인지업 이후 서류 합격률이 50%를 달성했다.\n2 가장 중요한 건 마인드 셋을 계속 잡아주면서, 무너지지 않게 해주는 취지가 너무 좋았다.\n3 다만 이번에 좀 아쉬웠던 부분은 저번 시즌처럼 오프라인 행사가 없어서 조금 아쉬웠다.\n4 갑자기 새로운 플랫폼 도입도 많이 당혹스러웠다…..\n5 그래도 코디님들이 개인적으로 작성한 포트폴리오도 피드백해주고 굉장히 좋았음\n6 다음 시즌에는 그래도 개선될 것이라 믿으며! 지원을 한번 더 해볼 생각이다!\n7 서류 합격률과 마인드 셋을 잘 잡아주셔서 감사합니다 이형님~~!!",
-    "crumbs": [
-      "Posts",
-      "Extra 02. Change Up",
-      "00. change up review (11-12)"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html",
-    "title": "01. Growth Hacking",
-    "section": "",
-    "text": "1 저자 : 라이언 홀리데이",
+    "text": "Intro\n1 저자 : 이나모리 가즈오\n2 왜 일하는가?\n\n먹고 살기 위해…물론 맞는 말이다.\n하지만 이 책을 읽고 내가 왜 일을 해야하는지에 대한 정답을 찾을 수 있길 바라며 책을 펼쳤다.\n일단 첫 번째, 나는 왜 일을 해야는가? \\(\\to\\) 조직에서 일을 하며 성과를 내는 것이 내 가치를 증명하는 길이기 때문이다.(\\(\\star\\star\\star\\))\n\n\n\n\n1장. 왜 일하는가?\n1 단순히 돈을 벌기 위해 일하는 것이 아니다.\n2 일을 하는 것에는 인성 함양의 목적도 포함된다.\n3 회사가 망해간다고 6개월만에 회사를 때려치는 사람이 다른 조직에서도 성과를 낼 수 있겠는가?\n4 몰입하자. 쓰러질 때 까지. 그러면 신은 우리에게 손을 내밀어 줄 것이고, 그 기회를 통해 우리는 몰두의 재미를 느끼게 될 것이다.(\\(\\star\\star\\star\\))\n\n필자와 다르게 난 무신론자이지만, 그것은 중요한 부분이 아니다.",
     "crumbs": [
       "Posts",
       "Extra 01. review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "title": "01. Growth Hacking",
-    "section": "(a) 그로스 해커 정의",
-    "text": "(a) 그로스 해커 정의\n\n마케터와 코더가 결합된 형태로, “우리 제품의 고객을 어떻게 확보할 수 있는가”라는 전통적인 질문에 대해 A/B Test, 이메일 도달률, 오픈 그래프 등을 사용해서 답을 제시하는 사람이다.\n그로스 해킹은 ’마케팅’을 무의미하거나 아니면 최소 우수 사례를 완전히 다시 쓰는 셈이다.\n그로스 해커는 마케팅을 마케터가 해야 하는 일이 아니고 제품 자체에 구축되어야 하는 것으로 본다.\n모든 그로스 해커의 궁극적인 목표는 자동으로 수백만의 사람들에게 전파하며, 스스로 영구히 지속되는 마케팅 기계를 만드는 것이다.(아론 긴)\n인터넷과 SNS도구들을 활용하여 반복적으로 추적하고, 검증하는 과정을 통해 기존의 마케팅 틀에서 벗어나는 것\n\n영화산업과 같이 유명인사를 초대하는 등 많은 비용들을 초래하는 방식을 뜻함\n\n데이터 과학자로서 디자이너나 마케터를 만나고 여기서 얻은 정보들을 처리하여 다르게 활용한다(\\(\\star\\star\\star\\))\n\n그래서 기존의 마케팅이 브랜드 기반이었다면, 그로스 해킹은 데이터에 기반한 지표와 ROI(Return of investment)기반으로 돌아가는 것임\n그로스 해킹은 도구라기보다는 사고 방식임\n\n나의 정의1 : 반복적으로 추적하고 검증하는 과정에서 발생되는 데이터를 통해 비즈니스 의사결정을 내리는 것",
-    "crumbs": [
-      "Posts",
-      "Extra 01. review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "title": "01. Growth Hacking",
-    "section": "(b) 그로스 해킹 사례 1. 핫메일",
-    "text": "(b) 그로스 해킹 사례 1. 핫메일\n1 유명한 벤처 투자가인 팀 드레이퍼는 다음과 같은 방식을 제안함\n\n이용자들의 모든 이메일 화면 맨 밑에 메시지리를 넣어 이용자들이 새로운 이용자를 끌어들이게 하였음.\n이 방식은 창의적이라기 보단, 많은 사람들이 원하고 필요로 했던 놀라운 제품을 소개하는 것이었기 때문에 성공할 수 있었음\n실제로 핫메리은 30개월만의 30만 달러 투자만으로, 4억 달러짜리 브랜드를 형성함.\n구글도 현재 시장 1위인 지메일 출시 당시, 근본적으로 같은 원리의 그로스 해킹 전략을 사용함",
-    "crumbs": [
-      "Posts",
-      "Extra 01. review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Growth Hacking",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 11, 2024\n\n\n02. 왜 일하는가\n\n\nGC \n\n\n\n\nDec 11, 2024\n\n\n00. change up review (11-12)\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
+      "02. 왜 일하는가"
     ]
   },
   {
@@ -149,15 +96,56 @@
     ]
   },
   {
-    "objectID": "posts/Extra 01. review/02. 왜 일하는가.html",
-    "href": "posts/Extra 01. review/02. 왜 일하는가.html",
-    "title": "02. 왜 일하는가",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Intro\n1 저자 : 이나모리 가즈오\n2 왜 일하는가?\n\n먹고 살기 위해…물론 맞는 말이다.\n하지만 이 책을 읽고 내가 왜 일을 해야하는지에 대한 정답을 찾을 수 있길 바라며 책을 펼쳤다.\n일단 첫 번째, 나는 왜 일을 해야는가? \\(\\to\\) 조직에서 일을 하며 성과를 내는 것이 내 가치를 증명하는 길이기 때문이다.(\\(\\star\\star\\star\\))\n\n\n\n\n1장. 왜 일하는가?\n1 단순히 돈을 벌기 위해 일하는 것이 아니다.\n2 일을 하는 것에는 인성 함양의 목적도 포함된다.\n3 회사가 망해간다고 6개월만에 회사를 때려치는 사람이 다른 조직에서도 성과를 낼 수 있겠는가?\n4 몰입하자. 쓰러질 때 까지. 그러면 신은 우리에게 손을 내밀어 줄 것이고, 그 기회를 통해 우리는 몰두의 재미를 느끼게 될 것이다.(\\(\\star\\star\\star\\))\n\n필자와 다르게 난 무신론자이지만, 그것은 중요한 부분이 아니다.",
+    "text": "About this site",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Growth Hacking",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 11, 2024\n\n\n02. 왜 일하는가\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html",
+    "title": "01. Growth Hacking",
+    "section": "",
+    "text": "1 저자 : 라이언 홀리데이",
     "crumbs": [
       "Posts",
       "Extra 01. review",
-      "02. 왜 일하는가"
+      "01. Growth Hacking"
+    ]
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
+    "title": "01. Growth Hacking",
+    "section": "(a) 그로스 해커 정의",
+    "text": "(a) 그로스 해커 정의\n\n마케터와 코더가 결합된 형태로, “우리 제품의 고객을 어떻게 확보할 수 있는가”라는 전통적인 질문에 대해 A/B Test, 이메일 도달률, 오픈 그래프 등을 사용해서 답을 제시하는 사람이다.\n그로스 해킹은 ’마케팅’을 무의미하거나 아니면 최소 우수 사례를 완전히 다시 쓰는 셈이다.\n그로스 해커는 마케팅을 마케터가 해야 하는 일이 아니고 제품 자체에 구축되어야 하는 것으로 본다.\n모든 그로스 해커의 궁극적인 목표는 자동으로 수백만의 사람들에게 전파하며, 스스로 영구히 지속되는 마케팅 기계를 만드는 것이다.(아론 긴)\n인터넷과 SNS도구들을 활용하여 반복적으로 추적하고, 검증하는 과정을 통해 기존의 마케팅 틀에서 벗어나는 것\n\n영화산업과 같이 유명인사를 초대하는 등 많은 비용들을 초래하는 방식을 뜻함\n\n데이터 과학자로서 디자이너나 마케터를 만나고 여기서 얻은 정보들을 처리하여 다르게 활용한다(\\(\\star\\star\\star\\))\n\n그래서 기존의 마케팅이 브랜드 기반이었다면, 그로스 해킹은 데이터에 기반한 지표와 ROI(Return of investment)기반으로 돌아가는 것임\n그로스 해킹은 도구라기보다는 사고 방식임\n\n나의 정의1 : 반복적으로 추적하고 검증하는 과정에서 발생되는 데이터를 통해 비즈니스 의사결정을 내리는 것",
+    "crumbs": [
+      "Posts",
+      "Extra 01. review",
+      "01. Growth Hacking"
+    ]
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
+    "title": "01. Growth Hacking",
+    "section": "(b) 그로스 해킹 사례 1. 핫메일",
+    "text": "(b) 그로스 해킹 사례 1. 핫메일\n1 유명한 벤처 투자가인 팀 드레이퍼는 다음과 같은 방식을 제안함\n\n이용자들의 모든 이메일 화면 맨 밑에 메시지리를 넣어 이용자들이 새로운 이용자를 끌어들이게 하였음.\n이 방식은 창의적이라기 보단, 많은 사람들이 원하고 필요로 했던 놀라운 제품을 소개하는 것이었기 때문에 성공할 수 있었음\n실제로 핫메리은 30개월만의 30만 달러 투자만으로, 4억 달러짜리 브랜드를 형성함.\n구글도 현재 시장 1위인 지메일 출시 당시, 근본적으로 같은 원리의 그로스 해킹 전략을 사용함",
+    "crumbs": [
+      "Posts",
+      "Extra 01. review",
+      "01. Growth Hacking"
     ]
   }
 ]
