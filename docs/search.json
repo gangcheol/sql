@@ -1,14 +1,67 @@
 [
   {
-    "objectID": "posts/Extra 01. review/02. 왜 일하는가.html",
-    "href": "posts/Extra 01. review/02. 왜 일하는가.html",
-    "title": "02. 왜 일하는가",
+    "objectID": "posts/Extra 02. Job Description/01. PM.html",
+    "href": "posts/Extra 02. Job Description/01. PM.html",
+    "title": "00. PM",
     "section": "",
-    "text": "Intro\n1 저자 : 이나모리 가즈오\n2 왜 일하는가?\n\n먹고 살기 위해…물론 맞는 말이다.\n하지만 이 책을 읽고 내가 왜 일을 해야하는지에 대한 정답을 찾을 수 있길 바라며 책을 펼쳤다.\n일단 첫 번째, 나는 왜 일을 해야는가? \\(\\to\\) 조직에서 일을 하며 성과를 내는 것이 내 가치를 증명하는 길이기 때문이다.(\\(\\star\\star\\star\\))\n\n\n\n\n1장. 왜 일하는가?\n1 단순히 돈을 벌기 위해 일하는 것이 아니다.\n2 일을 하는 것에는 인성 함양의 목적도 포함된다.\n3 회사가 망해간다고 6개월만에 회사를 때려치는 사람이 다른 조직에서도 성과를 낼 수 있겠는가?\n4 몰입하자. 쓰러질 때 까지. 그러면 신은 우리에게 손을 내밀어 줄 것이고, 그 기회를 통해 우리는 몰두의 재미를 느끼게 될 것이다.(\\(\\star\\star\\star\\))\n\n필자와 다르게 난 무신론자이지만, 그것은 중요한 부분이 아니다.",
+    "text": "JYP360\n1 제품의 CEO로서 플랫폼 내 고객 경험을 최종적으로 책임짐\n2 어떤 직군을 한정하지않고 프로덕트 성공을 위해 모든 일을 하는 사람들\n3 예측 불가능한 영역에서도 성과를 달성하기 위해 범위를 두지 않고 성공 요인을 파악할 줄 아는 능력이 필요?\n4 고객 유입, 지속적 사용성, 매출, 만족도 등의 데이터 분석 및 이를 기반으로 한 문제 해결 경험이 필요\n5 이 중 매출이 가장 중요, 그 이외의 지표들은 기본적으로 내가 볼 줄 알아야한다.\n6 고객에 대한 집착과 목표를 달성하려는 Grit이 중요\n\nGrit = Growth(성장) + Resilience(회복력) + intrinsic Motivation(내재적 동기) + Tenacity(끈기)\n사실 어느 영역이나 동일한 이야기이다.\n\n\n\n\n강남언니 PO\n1 UX설계 능력 : 유저에게 높은 가치를 줄 수 있는 능력\n\nUX : 사용자가 제품이나 서비스를 이용하면서 느끼는 전반적인 경험을 의미\n\n2 제품 개발 전반에 관한 이해 능력\n\nFigma, looker 등 개발 플랫폼 활용 능력\n\n3 애자일/스프린트/스크럼 경험\n\n애자일 : 데이터를 기반으로 합리적, 유연하게 효율적으로 일할 수 있는 능력을 보기 위한 역량임\n\n\n\n\n두잇 PO\n1 배달료 없는 배달앱으로 화제가 된 기업\n2 데이터 리터러시 : 데이터를 정보로서 읽고, 이해하고, 만들고 커뮤니케이션 하는 능력\n3 SQL, 엑셀 등 기초적인 데이터 분석 역량이 필요(+ GA, 퍼널 및 지표 분석)\n\n\n\n팀 스파르타, 교육 PM\n1 정량/정성 데이터를 근거로 교육 프로덕트의 운영 방싱을 개선\n2 IT 교육 도메인에 대한 관심과 지식이 필요\n\n\nSummary\n1 전반적으로 데이터를 기반으로 서비스를 기획하고 개선하는 역량이 필요\n2 즉, 그로스 해커의 능력 = 데이터 사이언티스트 + 퍼포먼스마케터\n3 현재 내가 공부하고 있는 방향과 크게 다르지 않은 것 같다.",
+    "crumbs": [
+      "Posts",
+      "Extra 02. Job Description",
+      "00. PM"
+    ]
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html",
+    "title": "01. Growth Hacking",
+    "section": "",
+    "text": "1 저자 : 라이언 홀리데이",
     "crumbs": [
       "Posts",
       "Extra 01. review",
-      "02. 왜 일하는가"
+      "01. Growth Hacking"
+    ]
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
+    "title": "01. Growth Hacking",
+    "section": "(a) 그로스 해커 정의",
+    "text": "(a) 그로스 해커 정의\n\n마케터와 코더가 결합된 형태로, “우리 제품의 고객을 어떻게 확보할 수 있는가”라는 전통적인 질문에 대해 A/B Test, 이메일 도달률, 오픈 그래프 등을 사용해서 답을 제시하는 사람이다.\n그로스 해킹은 ’마케팅’을 무의미하거나 아니면 최소 우수 사례를 완전히 다시 쓰는 셈이다.\n그로스 해커는 마케팅을 마케터가 해야 하는 일이 아니고 제품 자체에 구축되어야 하는 것으로 본다.\n모든 그로스 해커의 궁극적인 목표는 자동으로 수백만의 사람들에게 전파하며, 스스로 영구히 지속되는 마케팅 기계를 만드는 것이다.(아론 긴)\n인터넷과 SNS도구들을 활용하여 반복적으로 추적하고, 검증하는 과정을 통해 기존의 마케팅 틀에서 벗어나는 것\n\n영화산업과 같이 유명인사를 초대하는 등 많은 비용들을 초래하는 방식을 뜻함\n\n데이터 과학자로서 디자이너나 마케터를 만나고 여기서 얻은 정보들을 처리하여 다르게 활용한다(\\(\\star\\star\\star\\))\n\n그래서 기존의 마케팅이 브랜드 기반이었다면, 그로스 해킹은 데이터에 기반한 지표와 ROI(Return of investment)기반으로 돌아가는 것임\n그로스 해킹은 도구라기보다는 사고 방식임\n\n나의 정의1 : 반복적으로 추적하고 검증하는 과정에서 발생되는 데이터를 통해 비즈니스 의사결정을 내리는 것",
+    "crumbs": [
+      "Posts",
+      "Extra 01. review",
+      "01. Growth Hacking"
+    ]
+  },
+  {
+    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
+    "href": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
+    "title": "01. Growth Hacking",
+    "section": "(b) 그로스 해킹 사례 1. 핫메일",
+    "text": "(b) 그로스 해킹 사례 1. 핫메일\n1 유명한 벤처 투자가인 팀 드레이퍼는 다음과 같은 방식을 제안함\n\n이용자들의 모든 이메일 화면 맨 밑에 메시지리를 넣어 이용자들이 새로운 이용자를 끌어들이게 하였음.\n이 방식은 창의적이라기 보단, 많은 사람들이 원하고 필요로 했던 놀라운 제품을 소개하는 것이었기 때문에 성공할 수 있었음\n실제로 핫메리은 30개월만의 30만 달러 투자만으로, 4억 달러짜리 브랜드를 형성함.\n구글도 현재 시장 1위인 지메일 출시 당시, 근본적으로 같은 원리의 그로스 해킹 전략을 사용함",
+    "crumbs": [
+      "Posts",
+      "Extra 01. review",
+      "01. Growth Hacking"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Growth Hacking",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 26, 2024\n\n\n00. PM\n\n\nGC \n\n\n\n\nDec 11, 2024\n\n\n02. 왜 일하는가\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "About"
     ]
   },
   {
@@ -96,56 +149,15 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/Extra 01. review/02. 왜 일하는가.html",
+    "href": "posts/Extra 01. review/02. 왜 일하는가.html",
+    "title": "02. 왜 일하는가",
     "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Growth Hacking",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 11, 2024\n\n\n02. 왜 일하는가\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n00. 지표 이해하기\n\n\nGC \n\n\n\n\nNov 22, 2024\n\n\n01. Growth Hacking\n\n\nGC \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html",
-    "title": "01. Growth Hacking",
-    "section": "",
-    "text": "1 저자 : 라이언 홀리데이",
+    "text": "Intro\n1 저자 : 이나모리 가즈오\n2 왜 일하는가?\n\n먹고 살기 위해…물론 맞는 말이다.\n하지만 이 책을 읽고 내가 왜 일을 해야하는지에 대한 정답을 찾을 수 있길 바라며 책을 펼쳤다.\n일단 첫 번째, 나는 왜 일을 해야는가? \\(\\to\\) 조직에서 일을 하며 성과를 내는 것이 내 가치를 증명하는 길이기 때문이다.(\\(\\star\\star\\star\\))\n\n\n\n\n1장. 왜 일하는가?\n1 단순히 돈을 벌기 위해 일하는 것이 아니다.\n2 일을 하는 것에는 인성 함양의 목적도 포함된다.\n3 회사가 망해간다고 6개월만에 회사를 때려치는 사람이 다른 조직에서도 성과를 낼 수 있겠는가?\n4 몰입하자. 쓰러질 때 까지. 그러면 신은 우리에게 손을 내밀어 줄 것이고, 그 기회를 통해 우리는 몰두의 재미를 느끼게 될 것이다.(\\(\\star\\star\\star\\))\n\n필자와 다르게 난 무신론자이지만, 그것은 중요한 부분이 아니다.",
     "crumbs": [
       "Posts",
       "Extra 01. review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html#a-그로스-해커-정의",
-    "title": "01. Growth Hacking",
-    "section": "(a) 그로스 해커 정의",
-    "text": "(a) 그로스 해커 정의\n\n마케터와 코더가 결합된 형태로, “우리 제품의 고객을 어떻게 확보할 수 있는가”라는 전통적인 질문에 대해 A/B Test, 이메일 도달률, 오픈 그래프 등을 사용해서 답을 제시하는 사람이다.\n그로스 해킹은 ’마케팅’을 무의미하거나 아니면 최소 우수 사례를 완전히 다시 쓰는 셈이다.\n그로스 해커는 마케팅을 마케터가 해야 하는 일이 아니고 제품 자체에 구축되어야 하는 것으로 본다.\n모든 그로스 해커의 궁극적인 목표는 자동으로 수백만의 사람들에게 전파하며, 스스로 영구히 지속되는 마케팅 기계를 만드는 것이다.(아론 긴)\n인터넷과 SNS도구들을 활용하여 반복적으로 추적하고, 검증하는 과정을 통해 기존의 마케팅 틀에서 벗어나는 것\n\n영화산업과 같이 유명인사를 초대하는 등 많은 비용들을 초래하는 방식을 뜻함\n\n데이터 과학자로서 디자이너나 마케터를 만나고 여기서 얻은 정보들을 처리하여 다르게 활용한다(\\(\\star\\star\\star\\))\n\n그래서 기존의 마케팅이 브랜드 기반이었다면, 그로스 해킹은 데이터에 기반한 지표와 ROI(Return of investment)기반으로 돌아가는 것임\n그로스 해킹은 도구라기보다는 사고 방식임\n\n나의 정의1 : 반복적으로 추적하고 검증하는 과정에서 발생되는 데이터를 통해 비즈니스 의사결정을 내리는 것",
-    "crumbs": [
-      "Posts",
-      "Extra 01. review",
-      "01. Growth Hacking"
-    ]
-  },
-  {
-    "objectID": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "href": "posts/Extra 01. review/01. Growth Hacking.html#b-그로스-해킹-사례-1.-핫메일",
-    "title": "01. Growth Hacking",
-    "section": "(b) 그로스 해킹 사례 1. 핫메일",
-    "text": "(b) 그로스 해킹 사례 1. 핫메일\n1 유명한 벤처 투자가인 팀 드레이퍼는 다음과 같은 방식을 제안함\n\n이용자들의 모든 이메일 화면 맨 밑에 메시지리를 넣어 이용자들이 새로운 이용자를 끌어들이게 하였음.\n이 방식은 창의적이라기 보단, 많은 사람들이 원하고 필요로 했던 놀라운 제품을 소개하는 것이었기 때문에 성공할 수 있었음\n실제로 핫메리은 30개월만의 30만 달러 투자만으로, 4억 달러짜리 브랜드를 형성함.\n구글도 현재 시장 1위인 지메일 출시 당시, 근본적으로 같은 원리의 그로스 해킹 전략을 사용함",
-    "crumbs": [
-      "Posts",
-      "Extra 01. review",
-      "01. Growth Hacking"
+      "02. 왜 일하는가"
     ]
   }
 ]
