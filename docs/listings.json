@@ -2,11 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/01. Business & Marketing/00. 지표 이해하기.html",
+      "/posts/01. Business & Marketing/01. 비즈니스 지표 설정.html",
       "/posts/Extra 02. Job Description/02. PM (2).html",
       "/posts/02. sql/00. sql quiz.html",
       "/posts/Extra 02. Job Description/01. PM (1).html",
       "/posts/Extra 01. review/02. 왜 일하는가.html",
-      "/posts/01. Business & Marketing/00. 지표 이해하기.html",
       "/posts/Extra 01. review/01. Growth Hacking.html"
     ]
   }
