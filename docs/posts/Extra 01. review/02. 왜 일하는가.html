@@ -289,6 +289,12 @@ window.Quarto = {
   <li><a href="#장-노력을-지속하는가" id="toc-장-노력을-지속하는가" class="nav-link" data-scroll-target="#장-노력을-지속하는가">4장 노력을 지속하는가?</a></li>
   <li><a href="#장.-현재에-만족하는가" id="toc-장.-현재에-만족하는가" class="nav-link" data-scroll-target="#장.-현재에-만족하는가">5장. 현재에 만족하는가?</a></li>
   <li><a href="#장-마지막-조언." id="toc-장-마지막-조언." class="nav-link" data-scroll-target="#장-마지막-조언.">6장 마지막 조언.</a></li>
+  <li><a href="#extra-1.-tidydata" id="toc-extra-1.-tidydata" class="nav-link" data-scroll-target="#extra-1.-tidydata">Extra 1. tidydata</a>
+  <ul class="collapse">
+  <li><a href="#tidydata의-특징" id="toc-tidydata의-특징" class="nav-link" data-scroll-target="#tidydata의-특징">tidydata의 특징</a></li>
+  <li><a href="#적용점" id="toc-적용점" class="nav-link" data-scroll-target="#적용점">적용점</a></li>
+  </ul></li>
+  <li><a href="#extra-2.-simpsons-paradox" id="toc-extra-2.-simpsons-paradox" class="nav-link" data-scroll-target="#extra-2.-simpsons-paradox">Extra 2. Simpson’s paradox</a></li>
   </ul>
 </nav>
     </div>
@@ -476,6 +482,39 @@ window.Quarto = {
 <p><code>7</code> 이기적으로 행동하지 말고 욕심을 버려라.</p>
 <p><code>8</code> 만족할 줄 아는 마음을 지녀라.</p>
 <p><code>9</code> 모든 것에 감사하는 마음을 가져라.</p>
+<p><span class="math inline">\(\divideontimes\)</span> <font color="red"> <strong>매일 이것들을 아침에 읽고 수정하기!!!</strong> </font></p>
+<hr>
+</section>
+<section id="extra-1.-tidydata" class="level1">
+<h1>Extra 1. tidydata</h1>
+<p><code>-</code> 깔끔한 데이터, 실제 분석 작업에서 대부분의 작업이 이런 <code>tidydata</code>로 정제하는 데 소비된다.</p>
+<section id="tidydata의-특징" class="level2">
+<h2 class="anchored" data-anchor-id="tidydata의-특징">tidydata의 특징</h2>
+<p><code>1</code> 각 변수는 개별의 열로 존재한다.</p>
+<ul>
+<li>키, 몸무게, 성별 등 개별의 열로 존재</li>
+<li>예를 들어, 어떤 데이터에서 학교별로 6학년이면서 키가 170이상인 사람의 빈도 수를 설명하는 컬럼이 있으면 잘못된 것임.</li>
+<li>한 컬럼에는 학년, 한 컬럼에는 키만 표시해야함.</li>
+</ul>
+<p><code>2</code> 실제로 python이나 R에서 작동하는 시각화, 분석, 모델링 함수들 대부분이 데이터가 <code>tidydata</code> 형태로 들어와야 작동함.</p>
+</section>
+<section id="적용점" class="level2">
+<h2 class="anchored" data-anchor-id="적용점">적용점</h2>
+<p>학생들은 <code>tidydata</code>가 아닌 데이터가 주어졌을 때 분석 코드를 짜는 것을 굉장히 어려워했습니다. 저는 각 초등학교의 학년별 몸무게 데이터를 임의로 만들어 학생들의 이해를 도왔습니다.</p>
+<p>tidydata의 가장 중요한 특징은 각 컬럼들은 한 가지 특성만 설명해야 한다는 것입니다. 예를 들어서 각 학교의 학년별 몸무게를 수집한 데이터가 있을 때, 어떤 컬럼이 초등학교 6학년이면서 키가 170이상인 학생 수를 설명한다고 가정하겠습니다. 이럴 경우, maplotlib를 제외한 대부분의 시각화 패키지에서 데이터를 입력 시 그래프가 의도한 대로 나오지 않을 것입니다.</p>
+<p>애초에 패키지 개발자들이 <code>tidydata</code> 형태의 구조를 가지는 데이터를 기반으로 확장성을 고려하여 패키지를 만들었기 때문에 tidydata 형태로 데이터를 변형하는 것이 중요함을 학생들에게 강조했습니다.</p>
+<p>이후, python의 melt와 pivot, R에서는 gather와 spread 함수를 이용해서 각 언어에서 데이터 전처리를 어떻게 수행하는지 보여주며 학생들의 이해를 도왔습니다.</p>
+<hr>
+</section>
+</section>
+<section id="extra-2.-simpsons-paradox" class="level1">
+<h1>Extra 2. Simpson’s paradox</h1>
+<p><code>1</code> 전체에 대한 통계와 그룹별 통계가 다른 것을 말한다.</p>
+<ul>
+<li><p>원인 1 : 최소 1개 이상의 변수를 고려하지 않음</p></li>
+<li><p>원인 2 : 각 그룹에서 불균형적인 할당이 있을 경우. <span class="math inline">\(\to\)</span> 예를 들어, 어떤 그룹에서만 표본이 굉장히 많다면 가중치가 해당 그룹으로 쏠려서 심슨의 역설이 발생할 수 있음</p></li>
+</ul>
+<p>전북대학교 남녀 합격률….</p>
 
 
 </section>
